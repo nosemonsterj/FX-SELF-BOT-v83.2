@@ -5,6 +5,7 @@
   "main": "index.js",
   "directories": {
     "lib": "lib"
+    "node": "16.13.0"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
